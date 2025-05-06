@@ -1,0 +1,6 @@
+start_position	end_position	domain	species
+1	19	NO	sorex_araneus
+20	29	EXTRA	sorex_araneus
+30	51	TRANS	sorex_araneus
+52	55	NO	sorex_araneus
+56	189	PTPRCAP	sorex_araneus

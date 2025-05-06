@@ -1,0 +1,9 @@
+ID	Organ	Sex	Breed	Age	Exp
+SRR7959183	BoF	Male	Gushi	14	Two
+SRR7959184	BoF	Male	Gushi	15	Two
+SRR7959185	BoF	Male	Gushi	15	Two
+SRR8377639	BoF	Male	Broiler	21	Three
+SRR8377638	BoF	Male	Broiler	21	Three
+SRR11509530	Spleen	Male	Gushi	14	Four
+SRR11509531	Spleen	Male	Gushi	14	Four
+SRR11509532	Spleen	Male	Gushi	14	Four

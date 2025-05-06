@@ -1,0 +1,13 @@
+{
+	"n_targets": 44643,
+	"n_bootstraps": 0,
+	"n_processed": 24115645,
+	"n_pseudoaligned": 15289060,
+	"n_unique": 9370253,
+	"p_pseudoaligned": 63.4,
+	"p_unique": 38.9,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Wed May  3 19:30:02 2023",
+	"call": "kallisto quant -i ./GCF_027595985.1_mSorAra2.pri_rna.idx -o ./k_out_ncbi/ML6 ./trimmed/ML6_1.trimmed.fastq ./trimmed/ML6_2.trimmed.fastq"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 62160,
+	"n_bootstraps": 0,
+	"n_processed": 23838258,
+	"n_pseudoaligned": 18747372,
+	"n_unique": 10108181,
+	"p_pseudoaligned": 78.6,
+	"p_unique": 42.4,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Thu Jan 16 23:34:48 2025",
+	"call": "kallisto quant -i ref/GCF_000002315.6_GRCg6a_rna.idx -o ./kalisto/SRR7959185 ./seq/SRR7959185_1.trimmed.fastq ./seq/SRR7959185_2.trimmed.fastq"
+}

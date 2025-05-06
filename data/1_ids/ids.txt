@@ -1,0 +1,9 @@
+Sample_name	Organ	Sex
+ML6	poA	Female
+ML7	poA	Female
+ML8	poA	Male
+ML9	poA	Male
+HFS211	Spleen	Female
+HFS212	Spleen	Female
+HFS213	Spleen	Male
+HFS214	Spleen	Male
