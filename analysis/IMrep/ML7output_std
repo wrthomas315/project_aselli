@@ -1,0 +1,22 @@
+Starting ImReP-0.6 (developped by Igor Mandric, Serghei Mangul)
+
+
+ _                          
+(_)_ __ ___  _ __ ___ _ __  
+| | '_ ` _ \| '__/ _ \ '_ \ 
+| | | | | | | | |  __/ |_) |
+|_|_| |_| |_|_|  \___| .__/ 
+                     |_|    
+
+
+923810 partial-V CDR3 found
+120245 partial-J CDR3 found
+938 full CDR3 found:
+	- 751 of type IGH
+	- 8 of type IGK
+	- 12 of type IGL
+	- 146 of type TRA
+	- 21 of type TRB
+	- 0 of type TRD
+	- 0 of type TRG
+Done. Bye-bye

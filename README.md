@@ -29,3 +29,20 @@ Note: Done sequentially in Rstudio
 ```
 R 3_poA_diffexp.R          
 ```
+
+#### Immunoglobulin receptor diversity
+
+Install ImReP according to source https://github.com/Mangul-Lab-USC/imrep
+
+Then run on pancreas of Aselli reads
+```
+python2 imrep.py --fastq ML6_1.fq ML6_output > ML6output_std
+python2 imrep.py --fastq ML7_1.fq ML7_output > ML7output_std
+python2 imrep.py --fastq ML8_1.fq ML8_output > ML8output_std
+python2 imrep.py --fastq ML9_1.fq ML9_output > ML9output_std
+```
+
+Sort outputs to look at diversity across all tissues
+```
+bash 4_IG_diversity.sh
+```
